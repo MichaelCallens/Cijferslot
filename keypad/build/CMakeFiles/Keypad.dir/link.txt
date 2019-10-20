@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/Keypad.dir/main.c.o  -o Keypad -rdynamic -lPJ_RPI 
